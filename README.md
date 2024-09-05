@@ -34,6 +34,7 @@ Annual Income (k$): The annual income of the customer in thousands of dollars.
 Spending Score (1-100): A score assigned by the mall, indicating the customer's spending behavior.
 
 
+
 Required Libraries:
 
 pandas
@@ -45,6 +46,7 @@ matplotlib
 seaborn
 
 scikit-learn
+
 
 
 Contributions are welcomed! If you have ideas for improvements or additional features, feel free to submit an issue or a pull request.
