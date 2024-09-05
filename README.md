@@ -18,6 +18,7 @@ Visualization: Visualize customer segments using plots to gain insights into gro
 Jupyter Notebook: The entire workflow, from data loading to segmentation, is organized within a Jupyter Notebook for easy analysis.
 
 
+
 Data Description
 
 The mall_customer.csv file includes the following fields:
